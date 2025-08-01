@@ -148,7 +148,7 @@ body, html {
 .ml4 {
   position: relative;
   font-weight: 900;
-  font-size: 3em;
+  font-size: 2em;
 }
 
 .ml4 .letters {
@@ -173,7 +173,7 @@ body, html {
 
 .ml14 {
   font-weight: bold;
-  font-size: 2em;
+  font-size: 3em;
 }
 
 .ml14 .text-wrapper {
@@ -202,7 +202,7 @@ body, html {
 .ml7 {
   position: relative;
   font-weight: 900;
-  font-size: 3em;
+  font-size: 4em;
 }
 
 .ml7 .text-wrapper {
